@@ -1,0 +1,34 @@
+﻿
+· Project Summary
+My project is basically concerned with the farmer for irrigation in his/her farm. It gives the information about his farm,such as soil moisture content, temperature, weather, humidity etc. to the farmer and tells him whether his crops require water.If they require water then he would be able to operate water pump/motor irrespective of his/her present location. The farmer will be provided with a mobile application user interface which will give him the details of weather,temperature,humidity, and soil moisture by which the farmer would have the estimate of water required by his/her plants for a particular period. Accordingly, he can control the water pumps or motors with mobile application.
+· Project Requirements
+● Functional Requirements
+1. The data from the sensors and weather api is given as input to our application.
+2. This data is being displayed on the remote farmer's screen.
+3. Our application will provide the details of the water requirement of the plant for the current parameters and a specific time period.
+4. The farmer will give his response in the form of click on the buttons to turn his water pump/motor on/off.
+5. This response will be sent to the farm land where water motor/pumps are turned as on or off according to the value of response. The task to turn the irrigation system on/off is endowed by the microcontroller(Arduino).
+● Technical Requirements
+1.  MicroControllers such as arduino or raspberry pi but in our case we are going to use a simulator for controlling remote devices.
+2. Sensors such as soil moisture sensor etc.
+3. Python for back end.
+● Software Requirements
+1.  Node-red for integrating the weather api,all the sensors and other required    services to the web application.
+2. IBM IOT platform 
+3. Weather API
+
+
+· Project Deliverables
+          The client will be provided with the url of web application which would produce the desirable output on recieving the required inputs.
+· Project Team
+This project is assigned as an individual project to me. I am solely responsible for          completing this project in the assigned time period.
+· Project Schedule
+  Day 1-5: Project Planning and kickoff
+                 Explore IBM cloud platform
+  Day 6-10: Connect the IOT simulator to Watson IOT platform
+  Day 10-15:Configure the Node Red to get the data from IBM IOT platform and Open weather API.
+ Day 16-20:Building a Web app.
+ Day 20-25:Configure your remote device to recieve the data from the web application and operate the motors accordingly.
+Day 25-30: Make a brief project report with the prescribed format for project reports.
+
+
