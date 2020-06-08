@@ -14,6 +14,9 @@
 ###### * Run the node-red by typing "node-red" in command prompt.
 ![Node-red](https://user-images.githubusercontent.com/35992360/84074720-95e0bc00-a9f0-11ea-945e-53fa3c844b37.jpg)
 ###### * Copy the URL on which node-red flow editor is running and paste it into your browser.
-###### * Import the file named Smart_Agriculture_Flow.json in the node red flow editor and you will get the following flow.
+###### * Import the file named Smart_Agriculture_Flow.json in the node red flow editor and you will get the following two snapshots in your flow.
+![Flow1](https://user-images.githubusercontent.com/35992360/84078166-0e964700-a9f6-11ea-8a3e-0dbbe25bbdb5.jpg)
+![Flow2](https://user-images.githubusercontent.com/35992360/84078169-10600a80-a9f6-11ea-9d46-cdec062e26bf.jpg)
+###### * Now,you have to open [watson-iot-sensor](http://watson-iot-sensor-simulator.mybluemix.net/) and put credentials as stored in file named
 
 
