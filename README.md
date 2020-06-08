@@ -17,6 +17,6 @@
 ###### * Import the file named Smart_Agriculture_Flow.json in the node red flow editor and you will get the following two snapshots in your flow.
 ![Flow1](https://user-images.githubusercontent.com/35992360/84078166-0e964700-a9f6-11ea-8a3e-0dbbe25bbdb5.jpg)
 ![Flow2](https://user-images.githubusercontent.com/35992360/84078169-10600a80-a9f6-11ea-9d46-cdec062e26bf.jpg)
-###### * Now,you have to open [watson-iot-sensor](http://watson-iot-sensor-simulator.mybluemix.net/) and put credentials as stored in file named
+###### * Now,you have to open [watson-iot-sensor](http://watson-iot-sensor-simulator.mybluemix.net/) and put credentials as stored in [file](https://github.com/SmartPracticeschool/llSPS-INT-1372-Smart-Agriculture-system-based-on-IoT/blob/master/Iot_device_for_events_credentials.txt). Now, your IBM IOT device will be subscribed to the IOT sensor simulator as shown in the following image. 
 
 
