@@ -21,7 +21,12 @@
 ![watson_iot_sensor](https://user-images.githubusercontent.com/35992360/84079480-4bfbd400-a9f8-11ea-87e8-1538df1048c0.jpg)
 ###### * Run the [file](https://github.com/SmartPracticeschool/llSPS-INT-1372-Smart-Agriculture-system-based-on-IoT/blob/master/Subscribe_for_commands.py) to subscribe for recieving commands from node-red UI.
 >python Subscribe_for_commands.py
-###### * Now, append "/ui" to the node red server url and hit it on the browser to open node red web application.
+###### * Now, append "/ui" to the node red server url and hit it on the browser to open node red web application . Snapshots of all the tabs are as follows:
+![Tab1](https://github.com/SmartPracticeschool/llSPS-INT-1372-Smart-Agriculture-system-based-on-IoT/blob/master/Tab1.jpg)
+![Tab2](https://github.com/SmartPracticeschool/llSPS-INT-1372-Smart-Agriculture-system-based-on-IoT/blob/master/Tab2.jpg)
+![Tab3](https://github.com/SmartPracticeschool/llSPS-INT-1372-Smart-Agriculture-system-based-on-IoT/blob/master/Tab3.jpg)
+![Tab4](https://github.com/SmartPracticeschool/llSPS-INT-1372-Smart-Agriculture-system-based-on-IoT/blob/master/Tab4.jpg)
+![Tab5](https://github.com/SmartPracticeschool/llSPS-INT-1372-Smart-Agriculture-system-based-on-IoT/blob/master/Tab5.jpg)
 
 
 
